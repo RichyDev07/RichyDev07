@@ -1,4 +1,4 @@
-
+Hi there! 👋 I'm Richmond Gyening 🙋🏼‍♂️ Glad to see you! 😃 I'm a Front-end Web Developer with 1 years of experience in front-end. I have expertise in JavaScript, HTML, CSS, . I possess strong problem-solving and attention to detail skills, which have led to the successful development and maintenance of multiple web applications. I also have excellent communication skills and can work efficiently in fast-paced environments.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Richmond Gyening ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Richmond Gyening ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Richmond Gyening ) 
 
